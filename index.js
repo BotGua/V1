@@ -28,7 +28,7 @@ const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN?
             + 'ORG:Creator AKB4R;\n' // KASIH CREDITS GUA SU!!!
             + 'TEL;type=CELL;type=VOICE;waid=6289655478810:+62 896-5547-8810\n' // JANGAN KEK BABI SU
             + 'END:VCARD'
-prefix = '!'
+prefix = '$'
 blocked = []
 
 function kyun(seconds){
