@@ -42,10 +42,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/XP-TN/XPTNNBOTV.git"
+    "url": "git+https://github.com/BotGua/V1.git"
   },
   "bugs": {
-    "url": "https://github.com/XP-TN/XPTNNBOTV/issues"
+    "url": "https://github.com/BotGua/V1/issues"
   },
-  "homepage": "https://github.com/XP-TN/XPTNNBOTV#readme"
+  "homepage": "https://github.com/BotGua/V1#readme"
 }
