@@ -16,7 +16,7 @@ const help = (prefix) => {
 ┃
 ┣➥ *${prefix}donasi*
 ┣➥ *${prefix}Thanks To #Alfa📣*
-┣➥ *${prefix}Support Bot XPTN*
+┣➥ *${prefix}Support Bot AKB4R*
 ┣➥ *${prefix}Web Api : xptnbotapi.herokuapp.com*
 ┃
 ┣━━━°❀ ❬ UPDATE COMMAND ❭ ❀°━━━⊱
